@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ganthieraxiominstitute.github.io/sitemap.xml
